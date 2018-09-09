@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transkart-captcha-digit-parser", "transkart-captcha-digit-parser\transkart-captcha-digit-parser.csproj", "{F521C160-9992-4E3C-9F3E-049F35F8D99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F521C160-9992-4E3C-9F3E-049F35F8D99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F521C160-9992-4E3C-9F3E-049F35F8D99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F521C160-9992-4E3C-9F3E-049F35F8D99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F521C160-9992-4E3C-9F3E-049F35F8D99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50002A97-D39A-4DE1-9A38-A411A3F3F822}
+	EndGlobalSection
+EndGlobal
