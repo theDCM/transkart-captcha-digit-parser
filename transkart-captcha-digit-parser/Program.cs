@@ -29,7 +29,11 @@ namespace transkart_captcha_digit_parser
                 stream.Close();
                 stream.Dispose();
                 data.Dispose();
+                Digits[i].Dispose();
+                CroppedDigits[i].Dispose();
             }
+            Image.Dispose();
+            Picture.Dispose();
             Console.Write("The work has been completed. Press any key to exit..");
             Console.ReadKey(true);
 
